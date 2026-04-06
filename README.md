@@ -224,6 +224,9 @@ python manage.py runserver
 Machine Learning | Healthcare Analytics  
 GitHub: [@Naveena-Sahukari](https://github.com/Naveena-Sahukari)
 
+##Team Mate
+**Avula Suprabhath**
+GitHub: Supraswag
 ---
 
 ## 📢 Disclaimer
